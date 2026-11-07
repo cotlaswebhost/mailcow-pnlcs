@@ -1,0 +1,16 @@
+# Local working folders (not part of the shippable module)
+whmcs-module/
+.commandcode/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+
+# PHP / Composer
+vendor/
+composer.lock
+
+# Logs & temp
+*.log
+*.tmp
